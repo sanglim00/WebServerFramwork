@@ -10,6 +10,6 @@ $ python ex-flask.py
 #### 웹 화면
 <img width="320" alt="screen" src="https://github.com/sanglim00/WebServerFramwork/assets/54923245/e8d417ca-4906-49b0-abff-441699cfccf6">
 
-#### index.html
+#### ex-flask.py & index.html
 
-<img width="420" alt="example code" src="https://github.com/sanglim00/WebServerFramwork/assets/54923245/5f656a6e-2fcd-4a07-a6cc-3335dbf88c13">
+<img width="720" alt="example code" src="https://github.com/sanglim00/WebServerFramwork/assets/54923245/4af017e1-7356-4a55-9b3d-c27906c1933c">
